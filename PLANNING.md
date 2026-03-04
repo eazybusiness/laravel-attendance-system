@@ -365,9 +365,7 @@ tests/
 
 ## Contact & Repository
 
-**GitHub:** https://github.com/[username]/laravel-attendance-system  
-**Developer:** [Your Name]  
-**Email:** [Your Email]
+**GitHub:** https://github.com/eazybusiness/laravel-attendance-system
 
 ---
 

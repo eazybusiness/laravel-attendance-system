@@ -151,9 +151,7 @@ For detailed technical planning, see [`PLANNING.md`](./PLANNING.md)
 
 ## 📞 Contact
 
-**Developer:** [Your Name]  
-**Email:** [Your Email]  
-**GitHub:** https://github.com/[username]/laravel-attendance-system
+**GitHub:** https://github.com/eazybusiness/laravel-attendance-system
 
 ## 📄 License
 
